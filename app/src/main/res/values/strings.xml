@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawerKotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_msg">OPEN DRAWER</string>
+    <string name="close_msg">CLOSE DRAWER</string>
+    <string name="my_name">Haura Salsabila Az-Zahra</string>
+    <string name="my_email">haurahabillz23@gmail.com</string>
+</resources>
